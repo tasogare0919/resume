@@ -2,7 +2,7 @@
 ## 基本情報
 
 記載欄 | リンク
- * * * |  * * *
+ --- |  ---
 氏名 | 多田 貞剛（ただ さだよし）
 生年月日 | 1989/09/19
 Twitter | [tada_infra]（https://twitter.com/tada_infra）
