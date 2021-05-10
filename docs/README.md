@@ -198,3 +198,7 @@ AWSでシステムを構成するにあたっての要件定義、設計、実�
 * [Podcast](https://anchor.fm/y2-radio)
 * [Mackerel アンバサダー]（https://sadayoshi-tada.hatenablog.com/entry/2021/03/15/110000）
   * [CRE TGIF](https://hatena.connpass.com/event/207279/)
+* 取得資格
+  * [AWS](https://www.credly.com/users/sadayoshi-tada.5e7c1af1)
+  * Python3エンジニア検定
+  * LPIC Level1
