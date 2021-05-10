@@ -175,28 +175,28 @@ AWSでシステムを構成するにあたっての要件定義、設計、実�
 ### 各種勉強会での登壇
 * AWS DevDay Online（2020/10/21）
   * エンジニアおよび非エンジニアがデータを活用しようとしているもののシステムや組織的な課題があり改善を行った事例を話した。
-  * [データドリブンな組織を目指す、AWSを活用したデータ分析基盤の取り組み]（https://speakerdeck.com/sadayoshitada0919/aws-based-data-analytics-infrastructure-initiatives-for-a-data-driven-organization）
+  * [データドリブンな組織を目指す、AWSを活用したデータ分析基盤の取り組み](https://speakerdeck.com/sadayoshitada0919/aws-based-data-analytics-infrastructure-initiatives-for-a-data-driven-organization)
 * JAWS-UG 朝会#15 （2020/11/18）
   * AWSアカウントが1つしかないことによる開発のしづらさ、開発効率向上のために用途に応じて分割して開発体験の向上の取り組み事例を話した。
-  * [AWS Organizations と一緒にはじめるアカウント分離]（https://speakerdeck.com/sadayoshitada0919/starting-account-separation-with-aws-organaizations）
+  * [AWS Organizations と一緒にはじめるアカウント分離](https://speakerdeck.com/sadayoshitada0919/starting-account-separation-with-aws-organaizations)
 * July Tech Festa 2021（2021/01/24）
   * JAWS-UGでの発表を推進した結果と運用で実践している取り組み事例を話した。
-  * [スタートアップ企業でのAWS マルチアカウント運用の実践と普及]（https://speakerdeck.com/sadayoshitada0919/practice-and-dissemination-of-aws-multi-account-operation-in-a-start-up-company）
+  * [スタートアップ企業でのAWS マルチアカウント運用の実践と普及](https://speakerdeck.com/sadayoshitada0919/practice-and-dissemination-of-aws-multi-account-operation-in-a-start-up-company)
 * コネヒトマルシェオンライン「機械学習・データ分析」（2021/02/25）
   * 会社でのデータ活用に向けての改善にあたった取り組みを話した。
-  * [スタートアップ企業でのデータ活用に向けての取り組み]（https://speakerdeck.com/sadayoshitada0919/working-with-startups-to-leverage-data）
+  * [スタートアップ企業でのデータ活用に向けての取り組み](https://speakerdeck.com/sadayoshitada0919/working-with-startups-to-leverage-data)
 * JAWS DAYS 2021 re：Connect（2021/03/20）
   * 開発者が安心かつスムーズなリリースフローを作り、開発生産性を向上させたいと言う課題感からリリースフロー刷新の取り組みを話した。
-  * [スタートアップ企業での散乱した システムリリースフローをととのえる話]（https://speakerdeck.com/sadayoshitada0919/maintainthe-system-release-flow）
+  * [スタートアップ企業での散乱した システムリリースフローをととのえる話](https://speakerdeck.com/sadayoshitada0919/maintainthe-system-release-flow)
 
 ### 技術記事の寄稿および執筆
-* [Amazon Web Servicesのシン・ノウハウ]（https://gihyo.jp/magazine/SD/archive/2016/201611）
-* [日経クラウドファースト Amazon VPC / AWS Direct Connect ]（http://itpro.nikkeibp.co.jp/atclncf/service/00006/071500001/）
-* [実践CDK TypeScriptでインフラもアプリも！]（https://booth.pm/ja/items/1881928）
+* [Amazon Web Servicesのシン・ノウハウ](https://gihyo.jp/magazine/SD/archive/2016/201611)
+* [日経クラウドファースト Amazon VPC / AWS Direct Connect ](http://itpro.nikkeibp.co.jp/atclncf/service/00006/071500001/)
+* [実践CDK TypeScriptでインフラもアプリも！](https://booth.pm/ja/items/1881928)
 
 ### その他
 * [Podcast](https://anchor.fm/y2-radio)
-* [Mackerel アンバサダー]（https://sadayoshi-tada.hatenablog.com/entry/2021/03/15/110000）
+* [Mackerel アンバサダー](https://sadayoshi-tada.hatenablog.com/entry/2021/03/15/110000)
   * [CRE TGIF](https://hatena.connpass.com/event/207279/)
 * 取得資格
   * [AWS](https://www.credly.com/users/sadayoshi-tada.5e7c1af1)
