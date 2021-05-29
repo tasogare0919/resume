@@ -200,5 +200,6 @@ AWSでシステムを構成するにあたっての要件定義、設計、実�
   * [CRE TGIF](https://hatena.connpass.com/event/207279/)
 * 取得資格
   * [AWS](https://www.credly.com/users/sadayoshi-tada.5e7c1af1)
+  * Google Cloud Certified - Associate Cloud Engineer
   * Python3エンジニア検定
   * LPIC Level1
