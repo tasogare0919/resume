@@ -7,7 +7,7 @@
 生年月日 | 1989/09/19
 Twitter | [tada_infra](https://twitter.com/tada_infra)
 LinkedIn | [LinkedIn](https://www.linkedin.com/in/sadayoshi-tada-51530145/)
-Blog | [継続は力なり](https：//sadayoshi *tada.hatenablog.com/)
+Blog | [継続は力なり](https：//sadayoshi-tada.hatenablog.com/)
 Qiita | [Qiita](https://qiita.com/tada_infra)
 note | [note](https://note.com/tady0919)
 Zenn | [Zenn](https://zenn.dev/sadayoshitada)
