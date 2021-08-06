@@ -54,6 +54,7 @@ Wantedly | [Wantedly](https://www.wantedly.com/id/sadayoshi_tada_b)
     * 開発/ステージ/本番それぞれの既存の Dockerfile および docker-compose のソースコードを読み解き、ECS Fargate 向けに書き直し
     * システムの監視のために New Relic の導入および運用
     * CI/CD の改修
+      * Blue/Green デプロイの実装
       * タグリリースを行うためのフローの構築
 * プロジェクト詳細：
   * Nuxt.js の実行基盤を ElasticBeanstalk から ECS Fargate への移行するため
@@ -64,7 +65,8 @@ Wantedly | [Wantedly](https://www.wantedly.com/id/sadayoshi_tada_b)
 * プロジェクト規模：
   * メンバー 1〜10人での開発、運用
 * 役割：
-  * 検証->実装、運用を1人で行った
+  * 検証->実装を1人で行った
+  * 運用のアラート対応の実施
   * 適宜、上長や関係者によるレビュー、各チームへの相談、会議体、運用に載せるドキュメンテーション・レクチャーを実施
 
 ### 株式会社スナックミー 2020/09〜現在
