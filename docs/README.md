@@ -7,7 +7,7 @@
 生年月日 | 1989/09/19
 Twitter | [tada_infra](https://twitter.com/tada_infra)
 LinkedIn | [LinkedIn](https://www.linkedin.com/in/sadayoshi-tada-51530145/)
-Blog | [継続は力なり](https：//sadayoshi-tada.hatenablog.com/)
+Blog | [継続は力なり](https://sadayoshi-tada.hatenablog.com/)
 Qiita | [Qiita](https://qiita.com/tada_infra)
 note | [note](https://note.com/tady0919)
 Zenn | [Zenn](https://zenn.dev/sadayoshitada)
@@ -63,7 +63,7 @@ SRE として AWS 上にあるサービスの安定稼働のために効率的�
       * Production Readinessの導入
         * 負荷試験およびシナリオ試験の導入
       * Trivy および dockle による定期的なセキュリティチェックの導入
-    * SLI および SLO の策定(仕掛かり中)
+    * SLI および SLO,エラーバジェットの策定および運用
     * コスト削減のために Saving Plans および RI および Spot の適用
     * システムリリースの改善
       * タグリリースへの変更
