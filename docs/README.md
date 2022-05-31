@@ -13,6 +13,7 @@ note | [note](https://note.com/tady0919)
 Zenn | [Zenn](https://zenn.dev/sadayoshitada)
 SpeakerDeck | [SpeakerDeck](https://speakerdeck.com/sadayoshitada0919/)
 Wantedly | [Wantedly](https://www.wantedly.com/id/sadayoshi_tada_b)
+YOUTRUST | [YOUTRUST](https://youtrust.jp/users/sadayoshitada)
 
 ## 保有スキル
 * AWS でのシステム基盤の設計/実装/運用
