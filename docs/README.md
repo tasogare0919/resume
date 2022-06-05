@@ -49,6 +49,15 @@ YOUTRUST | [YOUTRUST](https://youtrust.jp/users/sadayoshitada)
 ## 職務経歴詳細
 ### 株式会社LayerX 2022/03〜現在
 
+1, サービス基盤の運用改善
+* CI に以下を導入・運用
+  * Secretlint
+  * tfsec
+* dependabot のステータスに応じて Slack で通知する GitHub Actions の開発・運用
+* SLI および SLO, エラーバジェットの策定
+* Terraform の開発・運用
+  * OIDC による `terraform plan` の実行改善
+  * terraform-aws-provider のバージョンアップ
 
 ### 株式会社スナックミー 2020/09〜2022/01
 SRE として AWS 上にあるサービスの安定稼働のために効率的な運用方法を検討したり、障害対応、開発者の生産性向上、システムの状況をモニタリングしてレイテンシーやパフォーマンス改善等をエンジニアリングによって効率化や自動化する業務を担当してます。一部 GCP にて BigQuery を利用したデータ分析基盤にも携わってます。
